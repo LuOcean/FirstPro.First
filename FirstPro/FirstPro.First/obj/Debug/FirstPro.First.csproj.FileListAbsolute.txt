@@ -1,0 +1,5 @@
+E:\Project\FirstPro.First\FirstPro\FirstPro.First\bin\Debug\FirstPro.First.dll
+E:\Project\FirstPro.First\FirstPro\FirstPro.First\bin\Debug\FirstPro.First.pdb
+E:\Project\FirstPro.First\FirstPro\FirstPro.First\obj\Debug\FirstPro.First.csprojResolveAssemblyReference.cache
+E:\Project\FirstPro.First\FirstPro\FirstPro.First\obj\Debug\FirstPro.First.dll
+E:\Project\FirstPro.First\FirstPro\FirstPro.First\obj\Debug\FirstPro.First.pdb
