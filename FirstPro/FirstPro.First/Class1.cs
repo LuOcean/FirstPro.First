@@ -8,5 +8,14 @@ namespace FirstPro.First
 {
     public class Class1
     {
+        private string id;
+        private string name;
+        private int age;
+
+        public string Id { get; set; }
+
+        public string Name { get; set; }
+
+        public int Age { get; set; }
     }
 }
