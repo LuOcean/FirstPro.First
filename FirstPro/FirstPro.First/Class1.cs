@@ -12,6 +12,10 @@ namespace FirstPro.First
         private string name;
         private int age;
 
+        public Class1()
+        {
+
+        }
         public string Id { get; set; }
 
         public string Name { get; set; }
